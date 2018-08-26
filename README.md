@@ -3,10 +3,10 @@ My first 2-D platformer! Boshy-inspired
 
 Controls:
 
-Z - Jump
+- Z: Jump
 
-X - Shoot
+- X: Shoot
 
-Q, W, E, R, T, Y - Testing/Spawning/Dev
+- Q, W, E, R, T, Y: Testing/Spawning/Dev
 
-Esc - Pause
+- Esc: Pause
