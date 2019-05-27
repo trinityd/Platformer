@@ -1,6 +1,8 @@
 # Platformer
 My first 2-D platformer! Boshy-inspired
 
+Located here: https://trinityd.github.io/Platformer/
+
 Controls:
 
 - Z: Jump
