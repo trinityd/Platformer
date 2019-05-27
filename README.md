@@ -12,3 +12,5 @@ Controls:
 - Q, W, E, R, T, Y: Testing/Spawning/Dev
 
 - Esc: Pause
+
+- Drag object to move it
